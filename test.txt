@@ -1,3 +1,4 @@
 aaaasadasdas new add
 new add
 new add1
+Git has a mutable index called stage.
