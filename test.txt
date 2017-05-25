@@ -3,3 +3,4 @@ new add
 new add1
 Git has a mutable index called stage.
 My stupid boss still prefers SVN.
+nihaonihao
